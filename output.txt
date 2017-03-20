@@ -1,0 +1,11 @@
+Connected
+| folder1_lv1
+|   | folder1_lv2
+|   |   | folder1_lv3
+|   |   | folder2_lv3
+|   | folder2_lv2
+|   |   | folder3_lv3
+| folder2_lv1
+|   | folder3_lv2
+| folder3_lv1
+Для продолжения нажмите любую клавишу . . .
